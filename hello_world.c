@@ -2,5 +2,5 @@
 
 void main ()
 {
-	printf ("DLLMCFH\n");
+	printf ("DLLMCFH(clone)\n");
 }
