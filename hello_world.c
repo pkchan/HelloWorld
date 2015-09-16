@@ -2,5 +2,5 @@
 
 void main ()
 {
-	printf ("DLLM\n");
+	printf ("DKLM\n");
 }
